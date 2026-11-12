@@ -1,0 +1,55 @@
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.venv/
+venv/
+env/
+ENV/
+dist/
+build/
+*.egg-info/
+
+# C and C++
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+codegen/
+mexf/
+*.mexmaca64
+*.mexa64
+*.mexw64
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
